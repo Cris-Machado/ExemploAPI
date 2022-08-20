@@ -1,0 +1,38 @@
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.IoC.deps.json
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.IoC.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\bin\Debug\net6.0\ref\PointNow.API.IoC.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.IoC.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\obj\Debug\net6.0\ref\PointNow.API.IoC.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Data.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Domain.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Identity.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Data.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Domain.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Identity.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.csproj.CopyComplete
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.IoC.deps.json
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.IoC.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\bin\Debug\net6.0\ref\PointNow.API.IoC.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.IoC.pdb
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Data.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Domain.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Identity.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Data.pdb
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Domain.pdb
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\bin\Debug\net6.0\PointNow.API.Identity.pdb
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.csproj.AssemblyReference.cache
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.AssemblyInfoInputs.cache
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.AssemblyInfo.cs
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.csproj.CoreCompileInputs.cache
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.csproj.CopyComplete
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\obj\Debug\net6.0\ref\PointNow.API.IoC.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.IoC\obj\Debug\net6.0\PointNow.API.IoC.pdb

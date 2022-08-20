@@ -1,0 +1,24 @@
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\bin\Debug\net6.0\PointNow.API.Domain.deps.json
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\bin\Debug\net6.0\PointNow.API.Domain.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\bin\Debug\net6.0\ref\PointNow.API.Domain.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\bin\Debug\net6.0\PointNow.API.Domain.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\obj\Debug\net6.0\ref\PointNow.API.Domain.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.csproj.AssemblyReference.cache
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\bin\Debug\net6.0\PointNow.API.Domain.deps.json
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\bin\Debug\net6.0\PointNow.API.Domain.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\bin\Debug\net6.0\ref\PointNow.API.Domain.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\bin\Debug\net6.0\PointNow.API.Domain.pdb
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.csproj.AssemblyReference.cache
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.AssemblyInfoInputs.cache
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.AssemblyInfo.cs
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\obj\Debug\net6.0\ref\PointNow.API.Domain.dll
+C:\Users\crist\Source\Repos\ExemploAPI\PointNow.API.Domain\obj\Debug\net6.0\PointNow.API.Domain.pdb

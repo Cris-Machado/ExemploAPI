@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5172f8e7-3e26-4cf0-b15b-a6f95a91ae04": {
+      "ProjectGuid": "5172f8e7-3e26-4cf0-b15b-a6f95a91ae04",
+      "DisplayName": "PointNow.API.Presentation",
+      "ColorIndex": 0
+    },
+    "70d62b25-40b3-42c0-a0c3-a4936b98940a": {
+      "ProjectGuid": "70d62b25-40b3-42c0-a0c3-a4936b98940a",
+      "DisplayName": "PointNow.API.Domain",
+      "ColorIndex": 1
+    },
+    "31e1a6d7-f785-489e-b7c2-d8804f9a7efd": {
+      "ProjectGuid": "31e1a6d7-f785-489e-b7c2-d8804f9a7efd",
+      "DisplayName": "PointNow.API.Data",
+      "ColorIndex": 2
+    },
+    "31445422-d862-41a8-8598-a1b97a3a10ec": {
+      "ProjectGuid": "31445422-d862-41a8-8598-a1b97a3a10ec",
+      "DisplayName": "PointNow.API.IoC",
+      "ColorIndex": 3
+    },
+    "6e5255c4-7396-4be9-8cdf-4cf2f1f09b3a": {
+      "ProjectGuid": "6e5255c4-7396-4be9-8cdf-4cf2f1f09b3a",
+      "DisplayName": "PointNow.API.Identity",
+      "ColorIndex": 4
+    },
+    "93e11ed2-f64b-4a6a-8860-1d7d86633caa": {
+      "ProjectGuid": "93e11ed2-f64b-4a6a-8860-1d7d86633caa",
+      "DisplayName": "PointNow.API.Presentantion",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

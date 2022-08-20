@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\bin\Debug\net6.0\PointNow.API.Identity.deps.json
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\bin\Debug\net6.0\PointNow.API.Identity.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\bin\Debug\net6.0\ref\PointNow.API.Identity.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\bin\Debug\net6.0\PointNow.API.Identity.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\obj\Debug\net6.0\PointNow.API.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\obj\Debug\net6.0\PointNow.API.Identity.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\obj\Debug\net6.0\PointNow.API.Identity.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\obj\Debug\net6.0\PointNow.API.Identity.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\obj\Debug\net6.0\PointNow.API.Identity.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\obj\Debug\net6.0\ref\PointNow.API.Identity.dll
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\obj\Debug\net6.0\PointNow.API.Identity.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\bin\Debug\net6.0\PointNow.API.Identity.runtimeconfig.json
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\obj\Debug\net6.0\PointNow.API.Identity.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Área de Trabalho\Trabalho\PointNow\API\PointNow.API\PointNow.API.Identity\obj\Debug\net6.0\PointNow.API.Identity.csproj.AssemblyReference.cache
